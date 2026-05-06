@@ -2,7 +2,8 @@
 
 ## 📌 Description
 
-This project organizes files in a given directory into folders based on file type such as Images, Documents, and Videos.
+1. logic1=This project organizes files in a given directory into folders based on file type such as Images, Documents, and Videos.
+2. logic2= This project organize images in a given directory by time.
 
 ## ⚙️ Features
 
@@ -18,6 +19,10 @@ This project organizes files in a given directory into folders based on file typ
    ```
    logic.py
    ```
+   ```
+   logic2.py
+   ```
+   
 2. Enter the folder path
 
 
